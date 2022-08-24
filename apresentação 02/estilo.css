@@ -1,0 +1,11 @@
+.titulo{
+    display: flex;
+    justify-content: space-around;
+}
+.imagens{
+    display: flex;
+}
+
+.imagens a{
+    padding-left: 20px;
+}
